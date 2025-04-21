@@ -2,14 +2,14 @@
   <img src="banner.png" alt="Token Flow Pre Generation Banner" height="200px"/>
 </p>
 
-# Token Flow Pre Generation (TKPG)
+# Token Flow Pre Generation (TFPG)
 
 **by AGGM**  
 MIT Licensed
 
 ---
 
-**Token Flow Pre Generation (TKPG)** is a lightweight, tag-based text classification and expansion engine.  
+**Token Flow Pre Generation (TFPG)** is a lightweight, tag-based text classification and expansion engine.  
 It maps text input to relevant tags and then dynamically expands them into expressive or context-aware outputs.
 
 ---
