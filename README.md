@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Token Flow Pre Generation Banner" />
+  <img src="banner.png" alt="Token Flow Pre Generation Banner" height="200px"/>
 </p>
 
 # Token Flow Pre Generation (TKPG)
